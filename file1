@@ -1,7 +1,7 @@
-Conflict by dev2
+<<<<<<< HEAD
 { 
-created file-2 by dev2
+created file-2 by dev2:wq
 }
-modified to -"hello"
+modified to -"hello" from dev1
 {
 } by dev 2
