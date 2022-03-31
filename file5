@@ -1,8 +1,9 @@
 class hello()
 {
- 	public directory main void ()
-	{
-	hello
-	}
+        public directory main void ()
+        {
+        hello
+        }
 
 }
+
