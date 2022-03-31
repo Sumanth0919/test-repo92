@@ -1,7 +1,7 @@
-Conflict
+Conflict- modification by dev 1
 { 
-created file-2
+created file-2 from dev 1
 }
-modified to -"hello"
+modified to -"hello" from dev1
 {
 }
